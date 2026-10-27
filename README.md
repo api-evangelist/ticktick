@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TickTick is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ticktick.com/
+TickTick is a productivity platform offering a to‑do list, calendar, habit tracker, and Pomodoro timer. It helps individuals and teams organize tasks, schedule events, track habits, and collaborate across devices. The service provides AI‑assisted task creation, real‑time sync, and integrations via MCP, CLI, and OpenAPI APIs for developers to automate workflows.
+
+**Areas:** Company · Productivity · Task Management · Calendar · Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ticktick.com/)
+- [Documentation](https://ticktick.com/about)
+- [Pricing](https://ticktick.com/upgrade)
+- [Support](https://help.ticktick.com)
+- [Blog](https://blog.ticktick.com/)
+- [Security](https://ticktick.com/about/security)
+- [Terms of service](https://ticktick.com/about/tos)
+- [Privacy policy](https://ticktick.com/about/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/ticktick/](https://apis.io/providers/ticktick/).
